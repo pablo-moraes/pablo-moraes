@@ -1,4 +1,4 @@
-###### Art by [Souvignet Julien](https://www.artstation.com/newah)
+###### Art by [Souvignet Julien.](https://www.artstation.com/newah)
 ![Star Wars](https://cdnb.artstation.com/p/assets/images/images/009/779/033/original/souvignet-julien-souvignet-julien-gifv2.gif?1520866586)
 
 <h1 align="center">Hi 👋, I'm Pablo</h1>
