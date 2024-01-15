@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Laravel Framework and PHP from scratch again.**
-
 - 👯 I’m looking to collaborate on **open source projects and the community**
 
 - 📫 How to reach me **pablomoraes2017@gmail.com**
