@@ -1,14 +1,10 @@
-###### Art by [Souvignet Julien.](https://www.artstation.com/newah)
-![Star Wars](https://cdnb.artstation.com/p/assets/images/images/009/779/033/original/souvignet-julien-souvignet-julien-gifv2.gif?1520866586)
-
 <h1>Hi 👋, I'm Pablo</h1>
-<h3>A passionate Fullstack developer from Brazil</h3>
+<h3>I'm a passionate Full stack developer.</h3>
+<p>I like to code mainly in PHP with Laravel and Vanilla JS.</p>
 
-- 🔭 I’m currently working on **personal projects**
-
-- 👯 I’m looking to collaborate on **open source projects and the community**
-
-- 📫 How to reach me **pablomoraes2017@gmail.com**
+- Currently studying about **react** and **typescript**.
+- Looking for open source projects to contribute.
+- How to reach me **pablomoraes2017@gmail.com**
 
  <div>
   <a href="https://github.com/pablo-moraes">
